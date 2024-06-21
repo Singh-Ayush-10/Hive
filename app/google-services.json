@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "481598119052",
+    "project_id": "authentication-6ef8c",
+    "storage_bucket": "authentication-6ef8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481598119052:android:e8ac541c3a118098a9afa9",
+        "android_client_info": {
+          "package_name": "com.mastercodint.authentaction"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdJSC_kzPsLREfFYwLI5M_Vn-kXIXEI5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

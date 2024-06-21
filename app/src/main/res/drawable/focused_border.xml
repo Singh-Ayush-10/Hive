@@ -1,0 +1,9 @@
+<!-- focused_border.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <!-- Define the border color and width for focused state -->
+    <stroke
+        android:width="2dp"
+        android:color="@color/focused_border_color"/>
+    <!-- You can also define other properties like corner radius, padding, etc. -->
+</shape>

@@ -1,0 +1,5 @@
+<!-- res/drawable/custom_outline_background.xml -->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_focused="true" android:drawable="@drawable/focused_border"/>
+    <item android:drawable="@drawable/default_border"/>
+</selector>
